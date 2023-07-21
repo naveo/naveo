@@ -1,10 +1,10 @@
 {
   "version": "v1.0.0-alpha.1",
   "notes": "Alpha version",
-  "pub_date": "2023-07-20T23:22:58Z",
+  "pub_date": "2023-07-21T15:43:28Z",
   "platforms": {
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTVmFnUUZrb3phbXNOSFBrR3lYNHl4VTJ5U3VlT0dIVjYvYkxMK3NRREtqcUk5dk5XT1FxZ3JvVFVSQmdMVGdicGl4bW90cG8zdlpYZzBvekQwcEVHSjl2b2VPeG55VVFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjg5ODkwNzYyCWZpbGU6bmF2ZW8uYXBwLnRhci5negpSYzcydlZrMWlLdTE2dFJSc0J6b1lZeVBlL3Zhc09VdHBGSFpPbzlyUmIrRzhhWjZpNFJZcmRoUS83cStSMjB3NzZCV1ZKRGloUmVRRmtNaGxTZVFDQT09Cg==",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTVmFnUUZrb3phbXVPVnJGZ0VTV2sxa3U1TTJ3d2ZCZUl0eGh4THJVdXp4YmpxeXhTMWhzWWYxWU8wUnpiUGpsclVocW5yOVNYVnJ6U2JBYkxGTVJvb3JhM2J3Q01rUEFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjg5OTUzOTg3CWZpbGU6bmF2ZW8uYXBwLnRhci5negpLbVVXY09td2tUZkx2M1NMWGRmMkJkVldoRnlHaWt5NloxMXJacVRRRWNzNUxaWmZ0Uk92eUl3Q05RTU9rTTJOK3N0RHNXbmFvTTluUk55TnVzUFBEQT09Cg==",
       "url": "https://github.com/naveo/naveo/releases/download/v1.0.0-alpha.1/naveo.app.tar.gz"
     }
   }
